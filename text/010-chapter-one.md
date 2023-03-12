@@ -2,7 +2,7 @@
 chapter: 010
 ---
 
-# Title of Chapter
+# The Title of the First Chapter
 
 Paragraph. [Link](https://example.com)
 
