@@ -1,12 +1,11 @@
 # bibliographic metadata
 
 title: A Trial ePub for Photo Albums
+subtitle: A Photo Travelogue
 author: 
   - Sean Boisen
   - Donna Boisen
 
 description: |
-  I'd like to see if I can automate generating an ePub from brief text
+  Can I automate generating an ePub from brief text
   and images. What happens if this line gets really long?
-
-
