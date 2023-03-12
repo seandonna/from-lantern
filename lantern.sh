@@ -9,13 +9,14 @@ siteurl=''
 output_formats() {
     html
     #pdf
-    #epub
+    epub
     #docx
 }
 
 # utilities
 
-pandoc_command='pandoc --quiet' # change to 'pandoc --verbose' for debugging
+#pandoc_command='pandoc --quiet' # change to 'pandoc --verbose' for debugging
+pandoc_command='pandoc --verbose'
 
 # setup
 
